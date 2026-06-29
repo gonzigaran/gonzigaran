@@ -12,10 +12,5 @@ PhD in Computer Science · University professor
 
 
 
-<p align="center">
-Profile views
-</p>
-
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=gonzigaran&color=blue">
-</p>
+
