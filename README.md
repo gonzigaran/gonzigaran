@@ -17,5 +17,5 @@ Profile views
 </p>
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+<img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue">
 </p>
